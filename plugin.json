@@ -1,0 +1,9 @@
+{
+  "id": "nextcloud",
+  "name": "Nextcloud / ownCloud",
+  "version": "0.1.1",
+  "api_version": 1,
+  "entry": "app:app",
+  "requirements": "requirements.txt",
+  "description": "Plays the music in a folder of your Nextcloud or ownCloud (WebDAV): search, artists, albums, streaming."
+}
