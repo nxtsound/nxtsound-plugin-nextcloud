@@ -15,7 +15,7 @@ A plugin for the [NxtSound server](https://github.com/nxtsound/nxtsound-server).
 the files stay where they are, and the plugin stores nothing but a small index.
 
 <p align="center">
-  <img src="docs/screenshots/search.svg" alt="Songs from your cloud in the search" width="80%">
+  <img src="docs/screenshots/search.svg" alt="Songs from your cloud in the search" width="55%">
 </p>
 
 ## Features
@@ -60,7 +60,7 @@ The folder must be called `nextcloud` (it has to match the plugin's id).
 Changing the address, user, password or folder starts over with a fresh index.
 
 <p align="center">
-  <img src="docs/screenshots/settings.svg" alt="Plugin settings and connection test" width="60%">
+  <img src="docs/screenshots/settings.svg" alt="Plugin settings and connection test" width="55%">
 </p>
 
 ## How your folders should look
