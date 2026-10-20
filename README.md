@@ -15,7 +15,7 @@ A plugin for the [NxtSound server](https://github.com/nxtsound/nxtsound-server).
 the files stay where they are, and the plugin stores nothing but a small index.
 
 <p align="center">
-  <img src="docs/screenshots/search.svg" alt="Songs from your cloud in the search" width="55%">
+  <img src="docs/screenshots/settings.png" alt="Settings of the Nextcloud / ownCloud plugin in the admin area" width="55%">
 </p>
 
 ## Features
@@ -58,10 +58,6 @@ The folder must be called `nextcloud` (it has to match the plugin's id).
 | Look for new music every | How often the folder is read again (0–168 hours, default 24; 0 = only by hand). |
 
 Changing the address, user, password or folder starts over with a fresh index.
-
-<p align="center">
-  <img src="docs/screenshots/settings.svg" alt="Plugin settings and connection test" width="55%">
-</p>
 
 ## How your folders should look
 
