@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.svg" alt="NxtSound logo" width="80">
+
 # NxtSound plugin: Nextcloud / ownCloud
 
 **Your cloud's music folder, as part of your own music server.**
